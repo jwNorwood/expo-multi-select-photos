@@ -1,0 +1,22 @@
+{
+  "name": "expo-photos-multi-select-example",
+  "displayName": "ExpoPhotosMultiSelect Example",
+  "expo": {
+    "name": "expo-photos-multi-select-example",
+    "slug": "expo-photos-multi-select-example",
+    "description": "Example app for expo-photos-multi-select",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
