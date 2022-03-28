@@ -10,11 +10,11 @@ Currently displays the photos in a grid.
 
 Only required fields are selectedPhotos and setSelectedPhotos.
 
+This is still a work in progress and not ready for production usage.
+
 ## Installation
 
-```sh
-npm install expo-photos-multi-select
-```
+NPM Comming soonish
 
 ## Usage
 
@@ -80,6 +80,9 @@ export default function App() {
 }
 
 ```
+## Future Updates
+
+Paginated loading of photos
 
 ## Contributing
 
